@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "624273968689",
+    "project_id": "axxendvideocall",
+    "storage_bucket": "axxendvideocall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624273968689:android:7233846647a63970370f10",
+        "android_client_info": {
+          "package_name": "com.example.axxendvideocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624273968689-n582rb3vhopsn5io3gqdako0ftjfhbvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVsxJlpGjgqmtYlDImOLQBraaX89K1wq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624273968689-n582rb3vhopsn5io3gqdako0ftjfhbvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

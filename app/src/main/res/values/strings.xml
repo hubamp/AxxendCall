@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AxxendVideoCall</string>
+    <string name="title_activity_make_call">MakeCall</string>
+</resources>
